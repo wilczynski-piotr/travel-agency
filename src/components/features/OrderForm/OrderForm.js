@@ -1,7 +1,7 @@
 import React from 'react';
 import {Row, Col} from 'react-flexbox-grid';
-import OrderSummary from '../OrderSummary/OrderSummary';
-import OrderOption from '../OrderOption/OrderOption';
+import OrderSummary from '../../features/OrderSummary/OrderSummary';
+import OrderOption from '../../features/OrderOption/OrderOption';
 import PropTypes from 'prop-types';
 import pricing from '../../../data/pricing.json';
 
